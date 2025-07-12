@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MyMonkeyApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
